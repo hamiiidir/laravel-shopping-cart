@@ -4,7 +4,7 @@ i have published this package on packagist and you can install this package with
 
 	composer require hamiiidir/shoppingcart
 
->please not that this package is only installable with composer version 2
+>please note that this package is only installable with composer version 2
 
 
 in order to read the document please visit the [main repository](https://github.com/Crinsane/LaravelShoppingcart)
