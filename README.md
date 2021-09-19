@@ -1,6 +1,6 @@
 > Please note that i have imported [this package](https://github.com/Crinsane/LaravelShoppingcart) to make it work with laravel 8 since there were a lot of uninvestigated old pull requests in the main repository 
 
-i have published this package into packagist an you can install this package with the following command
+i have published this package on packagist so you can install this package with the following command
 
 	composer require hamiiidir/shoppingcart
 
