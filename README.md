@@ -1,4 +1,4 @@
-> Please note that i have imported [this package](https://github.com/Crinsane/LaravelShoppingcart) to make it work with laravel 8 since there were a lot of uninvestigated old pull requests in the main repository 
+> Please note that i have imported [this package](https://github.com/Crinsane/LaravelShoppingcart) to make it work with laravel 8 since this package has not been updated for a long time and there were a lot of uninvestigated old pull requests in the main repository 
 
 i have published this package on packagist and you can install this package with the following command
 
